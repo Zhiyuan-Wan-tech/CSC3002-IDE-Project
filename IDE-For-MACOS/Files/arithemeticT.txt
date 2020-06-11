@@ -1,0 +1,6 @@
+main{
+	int a, b;
+	input(a);
+	b = (a+3)*2;
+	output(b);
+}
